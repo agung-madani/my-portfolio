@@ -1,8 +1,8 @@
-# Your Name
+# Agung Rashif Madani's Portfolio
 
 ## About Me
 
-Write a brief introduction about yourself, your background, your interests, and what you are passionate about.
+Hi, I’m Agung, a data and artificial intellegence enthusiast. I have a background in informatics engineering and a passion for solving real-world problems using data-driven solutions. I have experience in various domains of data and AI, such as natural language processing, computer vision, machine learning, data analytics, and web development. In this portfolio, you can find some of the projects that I have worked on, showcasing my skills and achievements. Feel free to contact me if you have any questions or feedback. Thank you for visiting my portfolio! 😊
 
 ## Projects
 
