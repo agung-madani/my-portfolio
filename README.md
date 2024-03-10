@@ -6,6 +6,12 @@ Hi, I’m Agung, a data and artificial intellegence enthusiast. I have a backgro
 
 ## Projects
 
+### FRAUD/ANOMALY DETECTION
+
+### [Credit Card Fraud Detection](https://github.com/agung-madani/fraud-transaction-detection)
+* Developed and implemented machine learning models, particularly Extra Trees Classifier, for credit card fraud detection, leveraging oversampling techniques like ADASYN to address imbalanced datasets.
+* Conducted comprehensive data preprocessing, exploratory data analysis, and model evaluation to ensure robust performance in detecting fraudulent transactions, achieving high ROC-AUC, accuracy, precision, recall, and F1-score metrics.
+
 ### Natural Language Processing Projects
 
 #### [Sentiment Analysis for Fun Football FIFA and PSSI](https://github.com/agung-madani/sentiment-analysis-funfootball-fifapssi)
